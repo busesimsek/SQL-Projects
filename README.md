@@ -8,11 +8,11 @@ Below are my SQL projects, each hosted in its own repository. Click on a project
 
 ### 1. SQL Data Cleaning Project
 - 📂 Repository: [SQL Data Cleaning Project](https://github.com/busesimsek/SQL-Data-Cleaning-Project)
-- 🛠 **Description**: A data cleaning project focusing on 2022 layoff trends, using MySQL to handle missing values, remove duplicates, standardize data, and ensure consistent formatting for accurate analysis.
+- 🛠 **Description**: A data cleaning project focusing on 2022 trends, using MySQL to handle missing values, remove duplicates, standardize data, and ensure consistent formatting for accurate analysis.
 
 ### 2. SQL Exploratory Data Analysis Project
 - 📂 Repository: [SQL Exploratory Data Analysis Project](https://github.com/busesimsek/SQL-Exploratory-Data-Analysis-Project)
-- 📊 **Description**: An EDA project using MySQL to analyze 2022 layoff trends, identifying patterns across industries, countries, and company stages, with insights into major layoffs and impacted sectors.
+- 📊 **Description**: An EDA project using MySQL to analyze layoff trends, identifying patterns across industries, countries, and company stages, with insights into major layoffs and impacted sectors.
 
 ## 🔗 How to Use
 1. Click on a project link above to view the repository.
